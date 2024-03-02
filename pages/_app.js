@@ -19,7 +19,9 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="css/animate.css" />
         <link rel="stylesheet" href="css/gradient.css" />
 
-        <title>Ryan - vCard / Resume / CV Template</title>
+        <title>Min Naing Ko Ko's Portfolio</title>
+        <meta name="description" content="Min Naing Ko Ko's Portfolio" />
+        <meta name="keywords" content="Min Naing Ko Ko, Min Naing Ko Ko's Portfolio, Miracle Dev" />
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
       </Head>
       <PreLoader />
