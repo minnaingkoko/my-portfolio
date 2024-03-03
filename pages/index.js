@@ -29,9 +29,7 @@ const RecentWorks = dynamic(
   }
 );
 const bio = `<p>
-I am Min Naing Ko Ko, full-stack web developer from Yangon, Myanmar. I have rich experience in
-web site design and building and customization, also I am good at wordpress.
-I love to talk with you about our unique.
+I am Min Naing Ko Ko, a Full Stack Web Developer in Myanmar. Pursuing a remote position, my drive stems from a love for technology, the appeal of high income, remote work flexibility, and a continuous commitment to learning. My ultimate goal is to positively impact lives globally.
 </p>`;
 
 const Index = () => {
@@ -57,24 +55,14 @@ const Index = () => {
           </div>
           {/* profile socials */}
           <div className="social">
-            <a target="_blank" rel="noreferrer" href="https://dribbble.com/">
-              <span className="fa fa-dribbble" />
+            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/minnaingkoko/">
+              <span className="fa fa-linkedin" />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://twitter.com/">
-              <span className="fa fa-twitter" />
+            <a target="_blank" rel="noreferrer" href="https://www.facebook.com/minnaing.koko.3">
+              <span className="fa fa-facebook" />
             </a>
-            <a target="_blank" rel="noreferrer" href="https://github.com/">
+            <a target="_blank" rel="noreferrer" href="https://github.com/minnaingkoko">
               <span className="fa fa-github" />
-            </a>
-            <a target="_blank" rel="noreferrer" href="https://www.spotify.com/">
-              <span className="fa fa-spotify" />
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://stackoverflow.com/"
-            >
-              <span className="fa fa-stack-overflow" />
             </a>
           </div>
           {/* profile buttons */}

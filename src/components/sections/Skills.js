@@ -63,27 +63,15 @@ const Skills = () => {
               </div>
               <ul>
                 <li className="border-line-h">
+                  <div className="name">Myanmar</div>
+                  <div className="progress">
+                    <div className="percentage" style={{ width: "100%" }} />
+                  </div>
+                </li>
+                <li className="border-line-h">
                   <div className="name">English</div>
                   <div className="progress">
-                    <div className="percentage" style={{ width: "90%" }} />
-                  </div>
-                </li>
-                <li className="border-line-h">
-                  <div className="name">German</div>
-                  <div className="progress">
-                    <div className="percentage" style={{ width: "60%" }} />
-                  </div>
-                </li>
-                <li className="border-line-h">
-                  <div className="name">Italian</div>
-                  <div className="progress">
-                    <div className="percentage" style={{ width: "30%" }} />
-                  </div>
-                </li>
-                <li>
-                  <div className="name">French</div>
-                  <div className="progress ">
-                    <div className="percentage" style={{ width: "70%" }} />
+                    <div className="percentage" style={{ width: "75%" }} />
                   </div>
                 </li>
               </ul>
@@ -100,7 +88,7 @@ const Skills = () => {
               </div>
               <ul>
                 <li>
-                  <div className="name">WordPress</div>
+                  <div className="name">Git</div>
                   <div className="progress p90">
                     <span>90%</span>{" "}
                     <div className="slice">

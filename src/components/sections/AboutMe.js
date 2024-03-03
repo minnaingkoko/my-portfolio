@@ -57,9 +57,7 @@ export const AboutMeClassic = () => {
         <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
           <div className="text-box">
             <p>
-              I am Min Naing Ko Ko, full-stack web developer from Yangon, Myanmar. I have rich
-              experience in web site design and building and customization, also
-              I am good at wordpress. I love to talk with you about our unique.
+            I am Min Naing Ko Ko, a Full Stack Web Developer in Myanmar. Pursuing a remote position, my drive stems from a love for technology, the appeal of high income, remote work flexibility, and a continuous commitment to learning. My ultimate goal is to positively impact lives globally.
             </p>
           </div>
           <div className="info-list">

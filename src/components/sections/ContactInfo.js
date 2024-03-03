@@ -7,12 +7,9 @@ const ContactInfo = () => {
       <div className="row">
         <div className="col col-d-12 col-t-12 col-m-12 border-line-v">
           <div className="map">
-            <iframe
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d136834.1519573059!2d-74.0154445224086!3d40.7260256534837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1639991650837!5m2!1sen!2sbd"
-              style={{ border: 0, width: "100%", height: "100%" }}
-              allowFullScreen=""
-              loading="lazy"
-            />
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d238.65069873353616!2d96.2330655785075!3d16.855542455388218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c19310ae53ea11%3A0x9c444037b9fe755f!2sYADANAR%20CCTV!5e0!3m2!1sen!2smm!4v1709430338225!5m2!1sen!2smm" 
+            style={{ border: 0, width: "100%", height: "100%" }} 
+            allowfullscreen="" loading="lazy"></iframe>
           </div>
           <div className="info-list">
             <ul>
